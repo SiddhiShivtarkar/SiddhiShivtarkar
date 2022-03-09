@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working as **Application Devlopment Associate at Accenture and System Administrator at Xfusion Corp**
 
-- 💬 Ask me about **Linux Bash Scripting, Git Github, Jenkins, Ansible, Terraform, Docker Kubernetes, Powershell, Python, AWS, Azure  **
+- 💬 Ask me about **Linux Bash Scripting, Git Github, Jenkins, Ansible, Terraform, Docker Kubernetes, Powershell, Python, AWS, Azure**
 
 - 📫 How to reach me **siddhishivtarkar37@gmail.com**
 
