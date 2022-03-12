@@ -24,13 +24,14 @@ hi, i'm Siddhi Shivtarkar, a passionate Devops Cloud Automation Engineer from in
 **Cloud:
 <code> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
-&nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 CI/CD:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <br />
+<br />
 Configuration Management:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></code>
-<br />
+&nbsp; &nbsp; &nbsp; &nbsp;
 Infrastruture As Code:
 <code><img height="20" src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg"></code>
 <br />
