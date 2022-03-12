@@ -5,7 +5,10 @@
 <a href="https://www.linkedin.com/in/siddhi-shivtarkar/">
   <img align="left" alt="Siddhi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://www.facebook.com/Siddhi-Shivtarkar/">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddhi shivtarkar"/></a>
 
+<br />
 <br />
 
 hi, i'm Siddhi Shivtarkar, a passionate self-taught Devops Cloud Automation Engineer from india.
