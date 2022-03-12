@@ -31,7 +31,7 @@ CI/CD:
 <br />
 <br />
 Configuration Management:
-<code><img height="20" src="https://www.getvectorlogo.com/wp-content/uploads/2019/01/red-hat-ansible-vector-logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></code>
 <br />
 <br />
 Repositories:
