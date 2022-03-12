@@ -48,10 +48,11 @@ Scripting:
 Containerization:
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 OS:
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 <br />
+<br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 Others:**
 <code><img height="20" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHwv3iNMmMPlQ/company-logo_200_200/0/1615204540013?e=2147483647&v=beta&t=C0tfiS9wsXEJdQYhib5SSU9PyIS1P0zxzq7X9G7p0kM"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
