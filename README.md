@@ -21,16 +21,16 @@ hi, i'm Siddhi Shivtarkar, a passionate self-taught Devops Cloud Automation Engi
 
 **languages and tools:**  
 
-**Cloud:**
+**Cloud:
 <code> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <br />
 <br />
-**CI/CD:**
+CI/CD:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <br />
 <br />
-**Configuration Management:
+Configuration Management:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></code>
 <br />
 <br />
