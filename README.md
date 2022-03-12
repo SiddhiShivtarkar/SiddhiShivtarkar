@@ -19,7 +19,7 @@ hi, i'm Siddhi Shivtarkar, a passionate Devops Cloud Automation Engineer from in
 
 <img align="right" alt="Coding" width="500" height="320" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
-**languages and tools:**  
+**Languages and Tools:**  
 
 **Cloud:
 <code> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
