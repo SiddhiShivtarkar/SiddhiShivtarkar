@@ -34,6 +34,10 @@ Configuration Management:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"></code>
 <br />
 <br />
+Infrastruture As Code:
+<code><img height="20" src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg"></code>
+<br />
+<br />
 Repositories:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <br />
