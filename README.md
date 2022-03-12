@@ -30,6 +30,10 @@ CI/CD:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <br />
 <br />
+Configuration Management:
+<code><img height="20" src="https://www.getvectorlogo.com/wp-content/uploads/2019/01/red-hat-ansible-vector-logo.png"></code>
+<br />
+<br />
 Repositories:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <br />
