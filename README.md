@@ -14,6 +14,8 @@ hi, i'm Siddhi Shivtarkar, a passionate self-taught Devops Cloud Automation Engi
 - 📫 How to reach me **siddhishivtarkar37@gmail.com**
 - 💬 **ask me about anything, i am happy to help**
 
+<img align="right" alt="Coding" width="500" height="320" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
@@ -26,12 +28,3 @@ hi, i'm Siddhi Shivtarkar, a passionate self-taught Devops Cloud Automation Engi
 <code><img height="20" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddhiShivtarkar&show_icons=true&theme=gotham" alt="SiddhiShivtarkar" />
-
-
-
-
