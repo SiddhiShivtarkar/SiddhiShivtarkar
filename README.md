@@ -35,9 +35,10 @@ Configuration Management:
 Infrastruture As Code:
 <code><img height="20" src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg"></code>
 <br />
+<br />
 Repositories:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 Scripting:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
