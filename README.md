@@ -36,7 +36,8 @@ Infrastruture As Code:
 <code><img height="20" src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg"></code>
 <br />
 <br />
-Repositories:
+
+Repositories:{text-align: right;}
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <br />
 <br />
