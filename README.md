@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/siddddhiiiiiii/">
   <img align="left" alt="Siddhi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,13 +11,11 @@
 <br />
 <br />
 
-hi, i'm Siddhi Shivtarkar, a passionate Devops Cloud Automation Engineer from india.
+Hi, I'm Siddhi Shivtarkar, a passionate Devops Cloud Automation Engineer from India.
 
 - 🌱 I’m currently working as **Application Devlopment Associate at Accenture and System Administrator at Xfusion Corp**
 - 📫 How to reach me **siddhishivtarkar37@gmail.com**
-- 💬 **ask me about anything, i am happy to help**
-
-<img align="right" alt="Coding" width="500" height="320" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+- 💬 **Ask me about anything, I am happy to help**
 
 **Languages and Tools:**  
 
