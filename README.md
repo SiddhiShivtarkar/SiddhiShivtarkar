@@ -45,7 +45,6 @@ Repositories:
 Scripting:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6eSJyA9shsDhi_Q9n19hODxvHi8SZK8gpypfeUyE_qLkEEZ3ALmog4Y0D4ijvmxo41hs&usqp=CAU"></code>
 <br />
 <br />
 Containerization:
