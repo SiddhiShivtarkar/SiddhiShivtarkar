@@ -24,6 +24,7 @@ Hi, I'm Siddhi Shivtarkar, a passionate Devops Cloud Automation Engineer from In
 <code><img height="20" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <br />
 <br />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 CI/CD:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <br />
@@ -36,7 +37,6 @@ Infrastruture As Code:
 <code><img height="20" src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg"></code>
 <br />
 <br />
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 Repositories:
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <br />
