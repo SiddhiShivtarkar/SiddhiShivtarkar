@@ -1,13 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/siddddhiiiiiii/">
-  <img align="left" alt="Siddhi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/siddhi-shivtarkar/">
-  <img align="left" alt="Siddhi's LinkedIN" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fca%2FLinkedIn_logo_initials.png%2F800px-LinkedIn_logo_initials.png&tbnid=m07o67zmNHn6OM&vet=12ahUKEwiU26qwhJaAAxV04qACHR5hDS4QMygAegUIARDjAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&docid=YvoKnije3nifwM&w=800&h=800&q=linkedin%20logo&ved=2ahUKEwiU26qwhJaAAxV04qACHR5hDS4QMygAegUIARDjAQ" />
-</a>
-<a href="https://www.facebook.com/Siddhi-Shivtarkar/">
-  <img align="left" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddhi shivtarkar"/></a>
-
 <br />
 <br />
 
