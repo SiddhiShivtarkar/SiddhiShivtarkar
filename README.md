@@ -13,7 +13,7 @@
 
 Hi, I'm Siddhi Shivtarkar, a passionate Devops Cloud Automation Engineer from India.
 
-- 🌱 I’m currently working as **Application Devlopment Associate at Accenture and System Administrator at Xfusion Corp**
+- 🌱 I’m currently working as **Cloud Tools and Automation Engineer Analyst at Accenture and System Administrator at Xfusion Corp**
 - 📫 How to reach me **siddhishivtarkar37@gmail.com**
 - 💬 **Ask me about anything, I am happy to help**
 
